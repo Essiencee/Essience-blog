@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: Cofee
-  theme_night: Cofee
+  theme_day: Rose
+  theme_night: Dark
   font: Native
   font_size: M
 
@@ -37,7 +37,7 @@ header:
     show_language: false
     show_day_night: true
     show_search: false
-    highlight_active_link: false
+    highlight_active_link: true
 
 footer:
   copyright:
