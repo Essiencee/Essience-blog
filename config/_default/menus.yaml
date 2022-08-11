@@ -11,5 +11,5 @@ main:
     url: about/
     weight: 20
   - name: Tags
-    identifier: tags
-    weight: 20
+    identifier: tags/
+    weight: 10
