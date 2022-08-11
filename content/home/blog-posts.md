@@ -22,8 +22,8 @@ content:
   archive:
     enable: false
 design:
-  columns: '5'
-  view: showcase
+  columns: '1'
+  view: Showcase
   flip_alt_rows: true
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
