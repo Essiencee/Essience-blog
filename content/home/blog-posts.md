@@ -23,7 +23,7 @@ content:
     enable: false
 design:
   columns: '1'
-  view: 5
+  view: Card
   flip_alt_rows: true
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
