@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: custom
-  theme_night: custom
+  theme_day: minimal
+  theme_night: minimal
   font: minimal
   font_size: L
 
@@ -31,13 +31,13 @@ marketing:
 
 header:
   navbar:
-    enable: false
+    enable: true
     align: r
-    show_logo: false
+    show_logo: true
     show_language: false
     show_day_night: true
-    show_search: true
-    highlight_active_link: false
+    show_search: false
+    highlight_active_link: true
 
 footer:
   copyright:
@@ -45,7 +45,7 @@ footer:
     license:
       enable: true
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
