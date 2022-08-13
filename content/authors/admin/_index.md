@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Alice Bighetti (吳恩達)
+title: Blog ESSIENCE
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 数据科学家
+role: Addicte à la lecture.
 
 # Status emoji
 status:
@@ -14,7 +14,7 @@ status:
 
 # Organizations/Affiliations
 organizations:
-  - name: 腾讯
+  - name: 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,8 +22,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 #interests:
 #- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+#- Biology
+#- Statistiques 
 
 #education:
 #  courses:
@@ -47,10 +47,10 @@ social:
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: 
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: 
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
