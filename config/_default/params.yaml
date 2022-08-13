@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Bienvenue sur mon site dédié à la science.'
+    twitter: 'Essience'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -32,7 +32,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: c
+    align: r
     show_logo: true
     show_language: false
     show_day_night: true
@@ -63,11 +63,11 @@ features:
       - r
       - latex
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: ''
     content_dir: content
     branch: main
   avatar:
