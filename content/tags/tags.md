@@ -1,4 +1,12 @@
 ---
+title: Tags
+summary: Pour retrouver les différents articles c'est içi !
+
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
+
 # An instance of the Tag Cloud widget.
 # Docs: https://wowchemy.com/docs/page-builder/
 widget: tag_cloud
