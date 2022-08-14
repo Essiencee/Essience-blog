@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Blog ESSIENCE
+title: ESSIENCE
 
 # Is this the primary user of the site?
 superuser: true
@@ -66,6 +66,6 @@ social:
 #email: ""
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Salut. Ce site a pour but de présenter les sujets que je trouve intéressant. Ils tourneront principalement autour de la science mais je me réserve le droit à des écarts. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Je cherche principalement à partager mes passions. 
