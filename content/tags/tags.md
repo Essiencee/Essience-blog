@@ -1,24 +1,15 @@
 ---
-title: Tags
-summary: Pour retrouver les différents articles c'est içi !
+title: Popular Topics
+subtitle: Pour retrouver les différents articles c'est içi !
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
-# An instance of the Tag Cloud widget.
-# Docs: https://wowchemy.com/docs/page-builder/
 widget: tag_cloud
-
 # This file represents a page section.
-headless: false
-
-# Order that this section appears on the page.
-weight: 120
-
-title: Popular Topics
-subtitle: ''
+headless: true
 
 content:
   # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
