@@ -3,6 +3,8 @@
 # Documentation: https://wowchemy.com/docs/getting-started/page-builder/
 widget: contact
 
+activate : False
+
 # This file represents a page section.
 headless: true
 
