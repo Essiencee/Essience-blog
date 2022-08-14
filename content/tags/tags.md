@@ -9,7 +9,11 @@ comments: false  # Show comments?
 
 widget: tag_cloud
 # This file represents a page section.
-headless: true
+headless: false
+
+design:
+  # Use a 1-column layout
+  columns: "2"
 
 content:
   # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
