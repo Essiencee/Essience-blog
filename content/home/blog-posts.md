@@ -26,5 +26,5 @@ design:
   view: Showcase
   flip_alt_rows: true
   background: {}
-  spacing: {padding: ["20px", "0", "20px", "0"]}
+  spacing: {padding: ["20px", "15px", "20px", "15px"]}
 ---
