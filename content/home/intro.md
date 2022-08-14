@@ -18,6 +18,11 @@ author: admin
 #  css_class: fullscreen
 ---
 
-🐈 Hey! I'm **Alice**, a data scientist at Google.
+Salut. 👋
 
-Check out my [CV](/about/) and blog posts below 🌈
+Ce site a pour but de présenter les sujets que je trouve intéressant. 
+
+Ils tourneront principalement autour de la science 🧬 mais je me réserve le droit à des écarts.
+
+Je cherche principalement à partager mes passions. 🔭
+
